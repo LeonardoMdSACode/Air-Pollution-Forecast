@@ -5,4 +5,5 @@
     },
     // You may also need to set this to false to ensure all inline suggestions are off
     "editor.inlineSuggest.enabled": false
+    
 }
